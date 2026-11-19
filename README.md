@@ -99,6 +99,7 @@ Aspiring Data Analyst | Python | SQL | Data Analytics
 
 
 GitHub: shejal24-rgb
+
 LinkedIn: Connect with me 
 
 ---
